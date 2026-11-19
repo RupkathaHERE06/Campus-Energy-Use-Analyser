@@ -1,0 +1,151 @@
+date,building,meter_reading_kwh
+2026-10-01,Main Academic Building,10307.92
+2026-10-02,Main Academic Building,10463.8
+2026-10-03,Main Academic Building,10622.44
+2026-10-04,Main Academic Building,10739.15
+2026-10-05,Main Academic Building,10865.27
+2026-10-06,Main Academic Building,11012.12
+2026-10-07,Main Academic Building,11152.54
+2026-10-08,Main Academic Building,11297.29
+2026-10-09,Main Academic Building,11429.92
+2026-10-10,Main Academic Building,11587.68
+2026-10-11,Main Academic Building,11743.95
+2026-10-12,Main Academic Building,11889.91
+2026-10-13,Main Academic Building,12051.26
+2026-10-14,Main Academic Building,12203.03
+2026-10-15,Main Academic Building,12335.57
+2026-10-16,Main Academic Building,12485.92
+2026-10-17,Main Academic Building,12617.02
+2026-10-18,Main Academic Building,12774.76
+2026-10-19,Main Academic Building,12919.03
+2026-10-20,Main Academic Building,13061.35
+2026-10-21,Main Academic Building,13196.48
+2026-10-22,Main Academic Building,13359.2
+2026-10-23,Main Academic Building,13501.96
+2026-10-24,Main Academic Building,13640.75
+2026-10-25,Main Academic Building,13780.65
+2026-10-26,Main Academic Building,13933.37
+2026-10-27,Main Academic Building,14083.66
+2026-10-28,Main Academic Building,14234.65
+2026-10-29,Main Academic Building,14385.9
+2026-10-30,Main Academic Building,14561.95
+2026-10-01,Computer Laboratory,11748.47
+2026-10-02,Computer Laboratory,11947.71
+2026-10-03,Computer Laboratory,12140.62
+2026-10-04,Computer Laboratory,12363.55
+2026-10-05,Computer Laboratory,12597.26
+2026-10-06,Computer Laboratory,12804.87
+2026-10-07,Computer Laboratory,12997.23
+2026-10-08,Computer Laboratory,13189.91
+2026-10-09,Computer Laboratory,13413.58
+2026-10-10,Computer Laboratory,13639.18
+2026-10-11,Computer Laboratory,13860.59
+2026-10-12,Computer Laboratory,14056.61
+2026-10-13,Computer Laboratory,14271.49
+2026-10-14,Computer Laboratory,14483.94
+2026-10-15,Computer Laboratory,14698.53
+2026-10-16,Computer Laboratory,14926.83
+2026-10-17,Computer Laboratory,15141.53
+2026-10-18,Computer Laboratory,15365.78
+2026-10-19,Computer Laboratory,15577.2
+2026-10-20,Computer Laboratory,16049.7
+2026-10-21,Computer Laboratory,16272.96
+2026-10-22,Computer Laboratory,16452.36
+2026-10-23,Computer Laboratory,16655.65
+2026-10-24,Computer Laboratory,16855.77
+2026-10-25,Computer Laboratory,17052.35
+2026-10-26,Computer Laboratory,17256.58
+2026-10-27,Computer Laboratory,17497.97
+2026-10-28,Computer Laboratory,17689.79
+2026-10-29,Computer Laboratory,17920.12
+2026-10-30,Computer Laboratory,18094.78
+2026-10-01,Electronics Laboratory,10346.01
+2026-10-02,Electronics Laboratory,10541.86
+2026-10-03,Electronics Laboratory,10740.01
+2026-10-04,Electronics Laboratory,10939.69
+2026-10-05,Electronics Laboratory,11118.24
+2026-10-06,Electronics Laboratory,11294.69
+2026-10-07,Electronics Laboratory,11495.56
+2026-10-08,Electronics Laboratory,11677.02
+2026-10-09,Electronics Laboratory,11838.42
+2026-10-10,Electronics Laboratory,12002.45
+2026-10-11,Electronics Laboratory,12170.44
+2026-10-12,Electronics Laboratory,12364.64
+2026-10-13,Electronics Laboratory,12552.28
+2026-10-14,Electronics Laboratory,12750.05
+2026-10-15,Electronics Laboratory,12927.15
+2026-10-16,Electronics Laboratory,13115.08
+2026-10-17,Electronics Laboratory,13311.65
+2026-10-18,Electronics Laboratory,13490.93
+2026-10-19,Electronics Laboratory,13684.38
+2026-10-20,Electronics Laboratory,13857.13
+2026-10-21,Electronics Laboratory,14035.42
+2026-10-22,Electronics Laboratory,14213.35
+2026-10-23,Electronics Laboratory,14376.23
+2026-10-24,Electronics Laboratory,14570.24
+2026-10-25,Electronics Laboratory,14746.56
+2026-10-26,Electronics Laboratory,14931.79
+2026-10-27,Electronics Laboratory,15125.68
+2026-10-28,Electronics Laboratory,15318.94
+2026-10-29,Electronics Laboratory,15516.25
+2026-10-30,Electronics Laboratory,15699.43
+2026-10-01,Library,11619.98
+2026-10-02,Library,11714.22
+2026-10-03,Library,11793.19
+2026-10-04,Library,11874.44
+2026-10-05,Library,11956.88
+2026-10-06,Library,12042.4
+2026-10-07,Library,12141.2
+2026-10-08,Library,12227.6
+2026-10-09,Library,12319.01
+2026-10-10,Library,12426.35
+2026-10-11,Library,12517.97
+2026-10-12,Library,12619.97
+2026-10-13,Library,12706.1
+2026-10-14,Library,12799.15
+2026-10-15,Library,12885.13
+2026-10-16,Library,12976.91
+2026-10-17,Library,13079.89
+2026-10-18,Library,13158.48
+2026-10-19,Library,13257.61
+2026-10-20,Library,13354.86
+2026-10-21,Library,13444.22
+2026-10-22,Library,13525.48
+2026-10-23,Library,13621.17
+2026-10-24,Library,13711.14
+2026-10-25,Library,13808.35
+2026-10-26,Library,13903.56
+2026-10-27,Library,14013.77
+2026-10-28,Library,14106.5
+2026-10-29,Library,14191.78
+2026-10-30,Library,14288.48
+2026-10-01,Administrative Building,11658.19
+2026-10-02,Administrative Building,11739.46
+2026-10-03,Administrative Building,11817.13
+2026-10-04,Administrative Building,11903.11
+2026-10-05,Administrative Building,11969.19
+2026-10-06,Administrative Building,12039.39
+2026-10-07,Administrative Building,12107.45
+2026-10-08,Administrative Building,12179.52
+2026-10-09,Administrative Building,12244.2
+2026-10-10,Administrative Building,12323.96
+2026-10-11,Administrative Building,12397.29
+2026-10-12,Administrative Building,12461.26
+2026-10-13,Administrative Building,12528.65
+2026-10-14,Administrative Building,12606.0
+2026-10-15,Administrative Building,12687.28
+2026-10-16,Administrative Building,12777.26
+2026-10-17,Administrative Building,12874.11
+2026-10-18,Administrative Building,12952.22
+2026-10-19,Administrative Building,13019.8
+2026-10-20,Administrative Building,13078.81
+2026-10-21,Administrative Building,13155.82
+2026-10-22,Administrative Building,13224.72
+2026-10-23,Administrative Building,13296.6
+2026-10-24,Administrative Building,13367.01
+2026-10-25,Administrative Building,13440.96
+2026-10-26,Administrative Building,13523.95
+2026-10-27,Administrative Building,13600.13
+2026-10-28,Administrative Building,13673.94
+2026-10-29,Administrative Building,13741.17
+2026-10-30,Administrative Building,13803.61
